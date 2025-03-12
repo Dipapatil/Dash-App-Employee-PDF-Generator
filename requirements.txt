@@ -1,0 +1,7 @@
+pandas
+openpyxl
+fpdf
+os
+dash_bootstrap_components
+dash
+zipfile
