@@ -14,5 +14,6 @@ Python, Dash, Pycharm, Pandas, FPDF
 ## Zip folder will be downloaded with all pdf's
 
 [PDF Downloaded](https://github.com/Dipapatil/Dash-App-Employee-PDF-Generator/blob/master/Sofi.pdf)
+<embed src="https://github.com/Dipapatil/Dash-App-Employee-PDF-Generator/blob/master/Sofi.pdf" width="600px" height="500px" />
 
 
