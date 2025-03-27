@@ -11,4 +11,8 @@ Python, Dash, Pycharm, Pandas, FPDF
 ## Script of Project
 [employee_pdf_generator.py](https://github.com/Dipapatil/Dash-App-Employee-PDF-Generator/blob/master/employee_pdf_generator.py)
 
+## Zip folder will be downloaded with all pdf's
+
+[PDF Downloaded](https://github.com/Dipapatil/Dash-App-Employee-PDF-Generator/blob/master/Sofi.pdf)
+
 
